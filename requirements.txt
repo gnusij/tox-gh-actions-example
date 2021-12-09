@@ -1,0 +1,7 @@
+nose
+tox
+unittest2
+wheel
+setuptools
+coverage
+setuptools_scm[toml] >=5, <7
