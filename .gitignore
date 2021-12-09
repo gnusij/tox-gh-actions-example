@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# setuptools_scm version
+src/pythonapp/version.py
+
+# junk
+junk
